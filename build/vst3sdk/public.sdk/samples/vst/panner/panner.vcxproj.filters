@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\source\plugfactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\source\plugcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\source\plugprocessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\source\main\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\include\plugcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\include\plugids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\include\plugprocessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\include\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\resource\plug.uidesc" />
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\resource\background.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\resource\animation_knob.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\resource\background_2x.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\resource\background_3x.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\resource\animation_knob_3x.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\resource\A2EAF7DB320640F48EDE380DDF89562C_snapshot.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\resource\A2EAF7DB320640F48EDE380DDF89562C_snapshot_2.0x.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\samples\vst\panner\resource\info.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{08DDAE93-77C9-3AD4-8B30-A507C034BD46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{B851828E-08D8-35A1-A6EB-01F35A1FBCE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AB33EE61-3DE1-3615-8F8C-E608F278F093}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

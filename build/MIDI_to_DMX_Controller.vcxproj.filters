@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\source\MIDI_to_DMXprocessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\source\MIDI_to_DMXcontroller.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\source\MIDI_to_DMXentry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\VST_SDK\vst3sdk\public.sdk\source\main\dllmain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\source\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\source\MIDI_to_DMXcids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\source\MIDI_to_DMXprocessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\source\MIDI_to_DMXcontroller.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\resource\MIDI_to_DMXeditor.uidesc" />
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\resource\001C4CBA77B157EEA197F18D3434ED89_snapshot.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\resource\001C4CBA77B157EEA197F18D3434ED89_snapshot_2.0x.png">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Alexander Knepprath\Desktop\VST\MIDI-to-DMX\MIDI-to-DMX-Controller\resource\win32resource.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{08DDAE93-77C9-3AD4-8B30-A507C034BD46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{B851828E-08D8-35A1-A6EB-01F35A1FBCE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AB33EE61-3DE1-3615-8F8C-E608F278F093}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
